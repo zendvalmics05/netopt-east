@@ -1,0 +1,67 @@
+# ==========================================
+# NETOPT-EAST .gitignore
+# ==========================================
+
+# Internal implementation & master plan documents (Keep private)
+netopt-east implementation plan *.md
+netopt-east master plan.md
+netopt-east v1 implementation plan.md
+*plan*.md
+
+# Python virtual environment & interpreter artifacts
+.venv/
+venv/
+ENV/
+env/
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Testing & code coverage
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.nox/
+
+# Jupyter Notebook checkpoints & runtime cache
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# IDE & Editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Temporary generator & scratch files
+create_*_nb.py
+generate_*_nb.py
+scratch/
+tmp/
+temp/
+*.log
+
+# Streamlit local runtime state
+.streamlit/secrets.toml

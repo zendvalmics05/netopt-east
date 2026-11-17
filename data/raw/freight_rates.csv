@@ -1,0 +1,3 @@
+mode,rate_per_km_inr,truck_capacity_units,source_note
+FTL,30,5000,"IBA truck hire rate 2024, Kolkata-Delhi corridor"
+LTL,5.5,5000,Industry standard FMCG LTL rate

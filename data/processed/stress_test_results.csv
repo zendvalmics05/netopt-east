@@ -1,0 +1,5 @@
+event,base_cost,stressed_cost,delta_pct,open_warehouses,n_warehouses
+"COVID demand shock (mean×1.02, CV×1.5)",510947120.45814294,519114405.2272144,1.5984598879328704,"Kolkata_WH,Bhubaneswar_WH,Patna_WH,Ranchi_WH,Guwahati_WH,Siliguri_WH",6
+"NH-19 closure (+50% cost, +5d lead on westbound lanes)",510947120.45814294,510947120.45814294,0.0,"Kolkata_WH,Bhubaneswar_WH,Patna_WH,Ranchi_WH,Guwahati_WH,Siliguri_WH",6
+Warehouse failure (Kolkata_WH forced closed),510947120.45814294,857116489.7297149,67.75052748338766,"Bhubaneswar_WH,Patna_WH,Ranchi_WH,Guwahati_WH,Siliguri_WH",5
+Fuel price spike (+40% all transport),510947120.45814294,618923135.6615326,21.132522501853526,"Kolkata_WH,Bhubaneswar_WH,Patna_WH,Ranchi_WH,Guwahati_WH,Siliguri_WH",6

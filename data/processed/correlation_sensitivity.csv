@@ -1,0 +1,5 @@
+rho_0,total_cost,safety_stock_units,safety_stock_cost,pooling_benefit_pct,open_warehouses
+0.0,510506419.354547,80802.0406465333,1818045.9145469994,65.79305534661653,"Kolkata_WH,Bhubaneswar_WH,Patna_WH,Ranchi_WH,Guwahati_WH,Siliguri_WH"
+0.3,510783525.26374495,93117.85883310965,2095151.823744967,60.57924505545991,"Kolkata_WH,Bhubaneswar_WH,Patna_WH,Ranchi_WH,Guwahati_WH,Siliguri_WH"
+0.6,511024227.23496,103815.72422044595,2335853.7949600336,56.050383082595125,"Kolkata_WH,Bhubaneswar_WH,Patna_WH,Ranchi_WH,Guwahati_WH,Siliguri_WH"
+1.0,511308581.9917015,116453.7134089543,2620208.5517014717,50.70018408709598,"Kolkata_WH,Bhubaneswar_WH,Patna_WH,Ranchi_WH,Guwahati_WH,Siliguri_WH"
